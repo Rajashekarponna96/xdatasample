@@ -1,0 +1,40 @@
+ 
+# compiled output
+ 
+# dependencies
+ 
+# profiling files
+ 
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+ 
+# misc
+/.angular/cache
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Compiled files
+theme.css
+layout.css
+src/assets/demo/styles/badges.css
+src/assets/demo/styles/code.css
+src/assets/layout/styles/layout/preloading.css
+src/assets/layout/styles/theme/designer
